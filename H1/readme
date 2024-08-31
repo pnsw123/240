@@ -1,0 +1,6 @@
+Time Conversion Q(1): I used simple math and fraction operations to turn a list of days into a more readable list of years, weeks, and days. I also got the idea of calculating the amount of days out of a number from GeeksforGeeks. Here is the link:
+https://www.geeksforgeeks.org/program-convert-given-number-days-terms-years-weeks-days/
+
+Circle Metrics (2): I figured out the circle's perimeter and area given its radius by using the necessary formulas with pi given as 3.14 and the pow function to square the radius. [Although you need to call the math library when compiling the program -lm]
+
+Maximum Finder (3): I found the highest number between three integers using a new method that doesn't use conditional logic. It does this by using math operations and the absolute value function. [I also got the idea from Stack Overflow, though I don't have the specific link for this. I just got many ideas from multiple websites and linked them up.]

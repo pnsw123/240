@@ -1,0 +1,6 @@
+
+Question 1 is about taking the number of rows from the users and printing them as a pyramid of stars. The way I approached it was by using simple for loops, also using the ideas given from pseudo or class codes.
+
+Question 2 takes two numbers from the user and finds the Least Common Multiple (LCM) of two numbers entered by the user. I also used loops, and basic logic to find the LCM I found on this website https://www.programiz.com/c-programming/examples/lcm. This website doesn't show you the exact code as mine but rather a similar idea.
+
+Question 3 computes and prints the sum of a series with terms x^(2*i +1). It basically finds the sum of the alternating series based on the user's inputs of x values plus the needed terms. I was able to do it using loops and a basic algorithm to change the sign to negative if it was an odd number.

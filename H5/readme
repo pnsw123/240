@@ -1,0 +1,33 @@
+Q1
+For this c program, I had to understand what a linked list is ( in the context of this quesion), and I came to a conlusion that, its a list that enables users to append nodes to the end, insert and print the list. 
+it simply start asking the user to enter the number of nodes and their data, which are appended to form a sort of list. then, it accepts additional data to insert at the begnining and display the updated list. My approach to this question came along with understadning the structure of node list. 
+
+citation:
+https://www.geeksforgeeks.org/insert-a-node-at-front-beginning-of-a-linked-list/
+
+Q2
+
+I used what I already knew about linked lists in C to make this program. As before, the program asks the user to choose how many nodes they want and what data they want to store in each one. The main change in this version, Q2.c, is that a simpler function has been added to add nodes straight at the end. This lets you keep typing without stopping the flow.
+citation:
+https://stackoverflow.com/questions/5797548/c-linked-list-inserting-node-at-the-end
+
+Q3
+I learned more about linked lists by adding this feature of adding at any point in the list, not just at the beginning or end. To make a base list, this program first asks the user to enter at least three nodes. Then it asks the user to enter more information and where they want this information to appear in the list. I added a function called insertAtPosition that does these insertions based on positions chosen by the user and handles errors for positions that aren't correct. 
+
+citation:
+https://stackoverflow.com/questions/12848633/c-linked-list-errors
+
+Q4
+I added the ability to delete the first node of a linked list to Q4.c. to learn about linked lists. The software starts creating the list from what the user writes in, like prior versions. I implemented a function called deleteFirstNode to remove the first node from the list and free its memory. This function works even with an empty list. 
+citation 
+https://www.geeksforgeeks.org/remove-first-node-of-the-linked-list/
+
+Q5
+In Q5.c I used a merge sort technique to organize a list of single-linked items into a more sophisticated action. This requires setting up and using merge, split, and mergeSort routines to control list elements. After prompting the user to enter list items, the append function adds them to the linked list. I then ordered the list using merge sort: split splits the list in half, mergeSort sorts each half in a loop, and merge rejoins the sorted halves.
+
+Citation:
+https://www.geeksforgeeks.org/c-program-for-merge-sort-for-linked-lists/
+
+Little note:
+For all of the above citation, I've only gotten the ideas to implement all of the aformentioned C programs, but as per guided in this course, I must cite them all. 
+

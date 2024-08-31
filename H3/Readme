@@ -1,0 +1,8 @@
+In Q1, I made a programme that sorts array numbers by whether they are odd or even. I asked the user how many things there were and what they were worth, then I looped through the array and put each integer into a group based on its parity. To meet the standards, I purposely added more space to the output format. This makes it easier to read and more consistent.
+
+My goal for Q2 was to find arrays that were already there. I used set loops to compare parts after getting information about their numbers and values. I quickly counted duplicates by adding one to a number and stopping early to avoid having to do the same thing over and over. I chose 100 to keep things simple, but this can be changed if necessary.
+I acutally needed help the nested loop, and I got it from Stack Overflow 
+https://stackoverflow.com/questions/8199403/how-to-check-if-an-array-has-any-duplicates
+
+Finding unique items in a user-defined array was part of Q3. I got element counts and values for this task as well. Using a meticulously planned loop structure, I found unique parts by comparing them to all the others. I added more space to the result to make it clear and consistent, which made it easy to read the data. For this question though, I got the main idea from this webiste
+https://subscription.packtpub.com/book/programming/9781838641108/1/ch01lvl1sec06/finding-the-unique-elements-in-an-array

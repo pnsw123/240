@@ -1,0 +1,7 @@
+I wrote a program to count vowels and consonants in a user-provided string in Q1.c. I ask the user for the string's length to dynamically allocate memory. After entering the string, I use pointers to increment vowel and consonant counters based on classification. I checked uppercase and lowercase vowels to verify the count is accurate.
+ I output the vowel and consonant counts and release the memory after the analysis, showing C string memory management and handling. 
+ This program was striaght forward, I only needed your instructions (pseudocode) 
+
+My Q2.c program manages and sorts a dynamically allocated array based on user input. After selecting the array size and elements, the user chooses ascending or descending sorting. The bubble sort algorithm swaps adjacent elements if they're out of order. The program prioritizes robust memory management, from dynamic array allocation to freeing after use. Clear prompts for array size, element inputs, and sorting preferences simplify user engagement.
+ Finally, I organize the sorted array to show each element's position and value.
+Citation: https://www.programmingsimplified.com/c/source-code/c-program-bubble-sort
